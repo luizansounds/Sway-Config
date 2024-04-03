@@ -24,12 +24,6 @@ set $image flatpak run org.gimp.GIMP
 set $text flatpak run com.visualstudio.code
 
 #rofi
-set $drun       ~/.local/lu-dotfiles/rofi-custom/Launcher/launcher.sh
-set $mpd        ~/.local/lu-dotfiles/.config/rofi/scripts/extra/mpd
-set $playerctl  ~/.local/lu-dotfiles/.config/rofi/scripts/extra/playerctl
-set $powermenu  ~/.local/lu-dotfiles/rofi-custom/Launcher/powermenu.sh
-set $run        ~/.local/lu-dotfiles/.config/rofi/scripts/extra/runner
-set $windows    ~/.local/lu-dotfiles/.config/rofi/scripts/extra/windows
-set $workspaces ~/.local/lu-dotfiles/.config/rofi/scripts/extra/workspaces
+set $drun       ~/.local/lu-dotfiles/.config/sway/scripts/Launcher/launcher.sh
+set $powermenu  ~/.local/lu-dotfiles/.config/sway/scripts/Launcher/powermenu.sh
 set $screenshot gscreenshot
-set $utils      ~/.local/lu-dotfiles/.config/rofi/scripts/extra/Utils

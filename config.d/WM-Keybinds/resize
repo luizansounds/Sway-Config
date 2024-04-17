@@ -1,4 +1,4 @@
-include $HOME/.local/lu-dotfiles/.config/sway/config.d/keywords
+include $HOME/.local/lu-dotfiles/.config/sway-config/config.d/keywords
 
 mode "resize" {
     # left will shrink the containers width

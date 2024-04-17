@@ -1,4 +1,5 @@
-include $HOME/.local/lu-dotfiles/.config/sway/config.d/keywords
+include $HOME/.local/lu-dotfiles/.config/sway-config/config.d/keywords
+
 # Layout stuff:
 #
     # You can "split" the current object of your focus with

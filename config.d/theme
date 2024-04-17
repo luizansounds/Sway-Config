@@ -1,4 +1,4 @@
-include $HOME/.local/lu-dotfiles/.config/sway/config.d/keywords
+include $HOME/.local/lu-dotfiles/.config/sway-config/config.d/keywords
 
 # Apply gtk theming
 exec_always ~/.config/sway/scripts/endeavour/import-gsettings
@@ -37,4 +37,4 @@ bar {
     swaybar_command waybar
 }
 # Set wallpaper:
-exec sh ~/.azotebg
+exec_always sh ~/swaybg.sh

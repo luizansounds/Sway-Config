@@ -24,6 +24,6 @@ set $image flatpak run org.gimp.GIMP
 set $text flatpak run com.visualstudio.code
 
 #rofi
-set $drun       ~/.local/lu-dotfiles/.config/sway/scripts/Launcher/launcher.sh
-set $powermenu  ~/.local/lu-dotfiles/.config/sway/scripts/Launcher/powermenu.sh
+set $drun       ~/.local/lu-dotfiles/.config/sway-config/scripts/Launcher/launcher.sh
+set $powermenu  ~/.local/lu-dotfiles/.config/sway-config/scripts/Launcher/powermenu.sh
 set $screenshot gscreenshot

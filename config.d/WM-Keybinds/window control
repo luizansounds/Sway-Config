@@ -1,4 +1,4 @@
-include $HOME/.local/lu-dotfiles/.config/sway/config.d/keywords
+include $HOME/.local/lu-dotfiles/.config/sway-config/config.d/keywords
 
 # Moving around:
 #

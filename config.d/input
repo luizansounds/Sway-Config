@@ -1,4 +1,4 @@
-include $HOME/.config/sway/config.d/keybinds/keywords
+include $HOME/.local/lu-dotfiles/.config/sway-config/config.d/keywords
 ### Input configuration
 #
 # Example configuration:
